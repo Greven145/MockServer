@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockServer", "MockServer\MockServer.csproj", "{55FA101F-F3E8-4BC0-AB9D-00503ACE5B38}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{38419E35-74B3-4393-941F-542E5C3B3784}"
+ProjectSection(SolutionItems) = preProject
+	.gitignore = .gitignore
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55FA101F-F3E8-4BC0-AB9D-00503ACE5B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55FA101F-F3E8-4BC0-AB9D-00503ACE5B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55FA101F-F3E8-4BC0-AB9D-00503ACE5B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55FA101F-F3E8-4BC0-AB9D-00503ACE5B38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
